@@ -9,7 +9,7 @@
 			upto 300 Units    		Rs. 8.50/units extra
 			Above 300 units  		Rs. 10/units extra
 
-			Accept unit consumed through run-time input with bufferedReader.
+			Accept unit consumed through run-time input with bufferedReader
  *
  * FILE      : ElectricBill.java
  * CREATED BY: Santosh Hembram
