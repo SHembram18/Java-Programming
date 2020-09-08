@@ -1,5 +1,5 @@
 /*
- * PROGRAM   : Write a Java program to find the number of days in a month as the year and month given as input.
+ * PROGRAM   : Write a Java program to find the number of days in a month as the year and month given as input
  * FILE      : NumberOfDays.java
  * CREATED BY: Santosh Hembram
  * DATED     : 07-09-20
