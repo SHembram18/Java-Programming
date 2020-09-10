@@ -61,7 +61,7 @@ class ElectricBill{
 		else if (unit<=300) {
 
 			pay = 125;
-			extra = (float)(50 * (float)4.5) + (float)(100 * (float)6.0) + (float)(unit-100) * (float)8.50;
+			extra = (float)(50 * (float)4.5) + (float)(100 * (float)6.0) + (float)(unit-200) * (float)8.50;
 			total = pay + extra;
 			System.out.println("The total Bill Amount[pay + extra]: "+pay+ " + "+ extra+ " = "+total);
 			
@@ -69,7 +69,7 @@ class ElectricBill{
 		else if(unit>300) {
 
 			pay = 125;
-			extra = (float)(50 * (float)4.5) + (float)(100 * (float)6.0) + (float)(100 * (float)8.50) + (float)(unit-100) * (float)10.0;
+			extra = (float)(50 * (float)4.5) + (float)(100 * (float)6.0) + (float)(100 * (float)8.50) + (float)(unit-300) * (float)10.0;
 			total = pay + extra;
 			System.out.println("The total Bill Amount[pay + extra]: "+pay+ " + "+ extra+ " = "+total);
 			
