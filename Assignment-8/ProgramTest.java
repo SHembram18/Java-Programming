@@ -59,5 +59,4 @@ class  ProgramTest {
 		obj.printPrimeFactors();
 
 	}
-
 }
