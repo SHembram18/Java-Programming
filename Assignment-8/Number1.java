@@ -119,11 +119,5 @@ import java.lang.Math;
       if(x >2) {
          System.out.println(x);
       }
-   }
-
-    
-
-
-  
-	
+   }	
 }
