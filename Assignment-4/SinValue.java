@@ -1,4 +1,4 @@
-/* PROGRAM    : To find the sin(x) for given x.
+/* PROGRAM    : To find the sin(x) for given x
  * FILE       : SinValue.java
  * CREATED BY : Santosh Hembram
  * DATED      : 14-09-20
