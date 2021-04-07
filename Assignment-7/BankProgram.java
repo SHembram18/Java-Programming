@@ -157,7 +157,7 @@ class BankProgram {
 		float rofBOI = obj.getRateOfIntrest();
 		float balBOI =  obj.getBalance(rofBOI);
 
-		System.out.println("PNB Rate of Interest: "+rofBOI+"%");
+		System.out.println("BOI Rate of Interest: "+rofBOI+"%");
 		System.out.println("Balance = "+balBOI);
 		System.out.println("--------------------------------------");
 
@@ -167,7 +167,7 @@ class BankProgram {
 		float rofIOB = obj.getRateOfIntrest();
 		float balIOB =  obj.getBalance(rofIOB);
 
-		System.out.println("PNB Rate of Interest: "+rofIOB+"%");
+		System.out.println("IOB Rate of Interest: "+rofIOB+"%");
 		System.out.println("Balance = "+balIOB);
 		System.out.println("--------------------------------------");
 
@@ -177,7 +177,7 @@ class BankProgram {
 		float rofUCO = obj.getRateOfIntrest();
 		float balUCO =  obj.getBalance(rofUCO);
 
-		System.out.println("PNB Rate of Interest: "+rofUCO+"%");
+		System.out.println("UCO Rate of Interest: "+rofUCO+"%");
 		System.out.println("Balance = "+balUCO);
 		System.out.println("--------------------------------------");
 
