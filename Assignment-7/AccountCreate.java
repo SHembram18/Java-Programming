@@ -81,7 +81,8 @@ class CurrentAccount extends Account {
  	}
  	String getAccType() {
 
- 		return acc_type = "Current";
+ 		return	acc_type = "Current";
+ 	
  	}
 
 
@@ -109,10 +110,10 @@ public class AccountCreate {
 
  		Account obj2 = new CurrentAccount();
 
- 		String name2 =  obj.getAccHoldername();
- 		float bal2 = obj.getBalance();
- 		long mob2 = obj.getMobileNo();	
- 		String a_type2 = obj.getAccType(); 
+ 		String name2 =  obj2.getAccHoldername();
+ 		float bal2 = obj2.getBalance();
+ 		long mob2 = obj2.getMobileNo();	
+ 		String a_type2 = obj2.getAccType(); 
 
  		System.out.println("============== Displaying the data ================");
  		System.out.println("Account Holder Name: "+name2);
